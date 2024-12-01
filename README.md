@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @negarraeisi
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on front-End projects
+- 🎓 Bachelor's in Computer Engineering, University of Kashan
+- 📖 Master's Student at Shahid Beheshti University
+- 💻 Aspiring Frontend Developer | Learning React
+- 🚀 Passionate about coding, creating, and growing in the tech world
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/negar-raeisi/
 
 
